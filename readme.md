@@ -15,4 +15,4 @@ Nas tim tvoria clenovia:
 1. Jakub Fraňo
 2.
 3.
-4.
+4. Eva Ivanusyková

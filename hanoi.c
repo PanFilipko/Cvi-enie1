@@ -7,7 +7,7 @@ void hanoi(int n, int a, int b)
   else
   {
     hanoi(n - 1, a, 3 - a);
-    printf("posun jablko %d z %d na %d\n", n, a, b);
+    printf("posun kamen %d z %d na %d\n", n, a, b);
     hanoi(n - 1, 3 - a - b, b);
   }
 }

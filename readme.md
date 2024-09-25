@@ -13,6 +13,6 @@ kolko kamenov mnisi prekladaju...
 Nas tim tvoria clenovia:
 
 1. Jakub Fraňo
-2.
+2. Michal Jaros
 3.
 4. Eva Ivanusyková

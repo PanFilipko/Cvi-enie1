@@ -15,4 +15,4 @@ Nas tim tvoria clenovia:
 1. Jakub Fraňo
 2. Michal Jaros
 3. Filip Kotoč
-4.
+4. Eva Ivanusyková

@@ -14,5 +14,5 @@ Nas tim tvoria clenovia:
 
 1. Jakub Fraňo
 2.
-3.
+3. Filip Kotoč
 4.
